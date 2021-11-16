@@ -26,7 +26,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		bool not_found = true;
 		Book *p_Book, t_Book;
 		cout << "Введiть 6удь ласка кiлькiсть записiв:";
-		
+		cout << "Коментар при запуску";
+
 	cout << "Натиснiть будь яку клавiшу !";
 	while (!_kbhit());
 	return 0;
